@@ -8,4 +8,4 @@ module.exports = function countCats(matrix) {
     }
   }
   return count;
-};
+}

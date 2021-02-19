@@ -23,4 +23,4 @@ module.exports = function repeater(str, options) {
     .slice(0, -1)
     .join(separator);
   return result;
-};
+}
